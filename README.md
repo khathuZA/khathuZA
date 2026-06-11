@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khathutshelo Ramaligela</h1>
 
 <h3 align="center">
-Software Developer | Full-Stack Developer | Computer Science Graduate
+Aspiring Full-Stack Developer | Computer Science Final Year Student
 </h3>
 
 <p align="center">
